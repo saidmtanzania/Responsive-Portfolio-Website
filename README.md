@@ -1,2 +1,2 @@
-# simple portifolio website
-Personal Site 
+# simple portfolio website
+Responsive Portfolio Website
