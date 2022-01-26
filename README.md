@@ -1,2 +1,2 @@
-# zero_Focus
-Personal Site for Zero_Focus Photographer
+# simple portifolio website
+Personal Site 
